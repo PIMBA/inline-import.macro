@@ -1,12 +1,16 @@
 {
   "name": "inline-import.macro",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "inline import macro for babel",
   "main": "index.js",
   "files": [
     "readme.md",
     "index.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PIMBA/inline-import.macro"
+  },
   "keywords": [
     "babel",
     "macro",
